@@ -1,36 +1,46 @@
-# Merhaba, ben Ceyda AKMAN! 👋
+<h1 align="center">Merhaba, ben Ceyda AKMAN! 👋</h1>
 
-## 🎓 Yazılım Mühendisliği Öğrencisi
+<h3 align="center">🎓 Yazılım Mühendisliği Öğrencisi | Kırklareli Üniversitesi</h3>
 
-Kırklareli Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğrencisiyim. Yazılım geliştirme dünyasında kendimi her gün daha fazla geliştirirken, özellikle **Yapay Zeka** ve **Siber Güvenlik** disiplinlerini profesyonel projelerde birleştirmeye odaklanıyorum.
+<p align="center">
+  Yazılım geliştirme yolculuğumda modern mimariler kurmaya, temiz kod yazmaya ve özellikle <b>Yapay Zeka</b> ile <b>Siber Güvenlik</b> disiplinlerini profesyonel projelerde birleştirmeye odaklanıyorum.
+</p>
 
-## 🛠️ Nelerle İlgileniyorum?
+---
 
-- 🧠 **Yapay Zeka:** Veri analizi, makine öğrenmesi ve yapay zeka etiği üzerine yoğunlaşıyorum.
-- 🛡️ **Siber Güvenlik:** Siber Vatan ve Akbank Gençlik Akademisi programları ile ağ güvenliği ve sızma testi temelleri üzerinde çalışıyorum.
-- 💻 **Yazılım Geliştirme:** Java, Python ve C# başta olmak üzere geniş bir yelpazede temiz kod ve tasarım desenleri odaklı projeler üretiyorum.
+### 🛠️ Nelerle İlgileniyorum?
 
-## 🚀 Öne Çıkan Projelerim
+* **🧠 Yapay Zeka:** Veri analizi, makine öğrenmesi ve derin öğrenme teknolojileri üzerine yoğunlaşıyorum.
+* **🛡️ Siber Güvenlik:** Ağ güvenliği, sızma testi temelleri ve tehdit analizi alanlarında pratik çalışmalar yürütüyorum.
+* **💻 Yazılım Geliştirme:** ASP.NET Core, C#, Python ve Java başta olmak üzere geniş bir yelpazede nesne yönelimli programlama, temiz kod ve tasarım desenleri odaklı projeler üretiyorum.
 
-* **Yurt Yönetim Sistemi:** JavaFX ve modern tasarım desenleri ile geliştirilmiş kurumsal mimarili masaüstü uygulaması.
-* **Kütüphane Yönetim Sistemi:** C# ve Windows Forms kullanarak geliştirdiğim, MS SQL Server entegrasyonu ile stok takibi ve ödünç alma süreçlerini yöneten ilişkisel veritabanı projesi.
-* **Yapay Zeka Destekli Asistan:** Python ve PyQt5 kullanılarak sesli komut algılama yeteneğine sahip modern bir masaüstü asistanı.
-* **Online Eğitim Platformu:** PHP ve MySQL tabanlı, sepet yönetimi ve dinamik özellikleri olan uçtan uca web projesi.
-* **Flashcard Mobil Uygulaması:** Flutter ve Dart ile dil öğrenimini destekleyen animasyonlu mobil uygulama.
+---
 
-## 🧰 Teknik Yetkinlikler
+### 🚀 Öne Çıkan Projelerim
 
-| Alan | Teknolojiler |
+* **[ProjectFlow](https://github.com/CeydaAkman/CeydaAkman):** Modern bir full-stack web uygulaması. ASP.NET Core Web API (.NET 8, C#, Entity Framework Core, SQL Server, JWT kimlik doğrulaması) backend mimarisi ve React (React Router, Axios, Bootstrap) frontend altyapısıyla geliştirilmiştir.
+* **[WebBuilderCMS](https://github.com/CeydaAkman/CeydaAkman):** Staj süreçlerimde (STAJ-1 DEFTERİ kapsamında) hayata geçirdiğim, içerik yönetim sistemleri ve modüler web yapıları üzerine odaklanan kapsamlı bir yazılım projesi.
+* **[Online Eğitim Platformu](https://github.com/CeydaAkman/CeydaAkman):** PHP ve MySQL tabanlı, sepet yönetimi ve dinamik kullanıcı özellikleri barındıran uçtan uca bir web projesi.
+
+---
+
+### 🧰 Teknik Yetkinlikler
+
+| Alan | Teknolojiler / Diller |
 | :--- | :--- |
-| **Diller** | Python, Java, C#, Dart, PHP, JavaScript |
-| **Veritabanı** | MS SQL, MySQL, PostgreSQL |
-| **Mobil/Web** | Flutter, HTML5, CSS3, Bootstrap, jQuery |
-| **Siber Güvenlik** | Kali Linux, Ağ Güvenliği Temelleri, Tehdit Analizi |
-| **Araçlar** | Git, GitHub, Microsoft Office |
+| **Diller & Backend** | C#, Python, Java, PHP, JavaScript, ASP.NET Core Web API, Entity Framework Core |
+| **Frontend & Web** | React, React Router, Axios, Flutter, HTML5, CSS3, Bootstrap, jQuery |
+| **Veritabanı** | MS SQL Server, MySQL, PostgreSQL, dbdiagram.io |
+| **Siber Güvenlik & AI** | Kali Linux, Ağ Güvenliği, Tehdit Analizi, Derin Öğrenme, UML Modelleme |
+| **Araçlar & Git** | Git, GitHub, Postman, Microsoft Office |
 
-## 📫 Bana Ulaşın!
+---
 
-- 📧 **E-posta:** [akman2005ceyda@hotmail.com](mailto:akman2005ceyda@hotmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/ceyda-akman](https://tr.linkedin.com/in/ceyda-akman)
+### 📫 Bana Ulaşın!
 
-*✨ Sürekli öğrenmeye ve yeni teknolojileri keşfetmeye tutkuluyum.*
+* 📧 **E-posta:** akman2005ceyda@hotmail.com
+* 💼 **LinkedIn:** [linkedin.com/in/ceyda-akman](https://linkedin.com/in/ceyda-akman)
+
+<p align="center">
+  <i>✨ Sürekli öğrenmeye ve yeni teknolojileri keşfetmeye tutkuluyum.</i>
+</p>
