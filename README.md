@@ -32,7 +32,7 @@
 | :--- | :--- |
 | **Diller & Backend** | C#, Python, Java, JavaScript, ASP.NET Core |
 | **Frontend & Web** | React, React Router, Axios, Flutter, HTML5, CSS3, Bootstrap, jQuery |
-| **Veritabanı** | MS SQL Server, MySQL, PostgreSQL |
+| **Veritabanı** | MSSQL, MySQL, PostgreSQL |
 | **Siber Güvenlik & AI** | Kali Linux, Ağ Güvenliği, Tehdit Analizi, Ağ Sızma Testleri,  Makine Öğrenmesi, Derin Öğrenme |
 | **Araçlar & Git** | Git, GitHub, Microsoft Office |
 
