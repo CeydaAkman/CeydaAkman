@@ -11,16 +11,18 @@
 ### 🛠️ Nelerle İlgileniyorum?
 
 * **🧠 Yapay Zeka:** Veri analizi, makine öğrenmesi ve derin öğrenme teknolojileri üzerine yoğunlaşıyorum.
-* **🛡️ Siber Güvenlik:** Ağ güvenliği, sızma testi temelleri ve tehdit analizi alanlarında pratik çalışmalar yürütüyorum.
-* **💻 Yazılım Geliştirme:** ASP.NET Core, C#, Python ve Java başta olmak üzere geniş bir yelpazede nesne yönelimli programlama, temiz kod ve tasarım desenleri odaklı projeler üretiyorum.
+* **🛡️ Siber Güvenlik:** Ağ güvenliği, sızma testleri ve tehdit analizi alanlarında pratik çalışmalar yürütüyorum.
+* **💻 Yazılım Geliştirme:** ASP.NET Core, C#, Python, Java ve Javascript başta olmak üzere geniş bir yelpazede nesne yönelimli programlama, temiz kod ve tasarım desenleri odaklı projeler üretiyorum.
 
 ---
 
 ### 🚀 Öne Çıkan Projelerim
 
-* **[ProjectFlow](https://github.com/CeydaAkman/CeydaAkman):** Modern bir full-stack web uygulaması. ASP.NET Core Web API (.NET 8, C#, Entity Framework Core, SQL Server, JWT kimlik doğrulaması) backend mimarisi ve React (React Router, Axios, Bootstrap) frontend altyapısıyla geliştirilmiştir.
-* **[WebBuilderCMS](https://github.com/CeydaAkman/CeydaAkman):** Staj süreçlerimde (STAJ-1 DEFTERİ kapsamında) hayata geçirdiğim, içerik yönetim sistemleri ve modüler web yapıları üzerine odaklanan kapsamlı bir yazılım projesi.
-* **[Online Eğitim Platformu](https://github.com/CeydaAkman/CeydaAkman):** PHP ve MySQL tabanlı, sepet yönetimi ve dinamik kullanıcı özellikleri barındıran uçtan uca bir web projesi.
+* **ProjectFlow:** Proje yöneticileri ve ekip üyelerinin görev süreçlerini, rol tabanlı izinleri ve iş akışlarını şeffaf bir şekilde yönetmesini sağlayan kapsamlı bir proje yönetim uygulaması.
+* **WebBuilderCMS:** Kullanıcıların kod bilgisine ihtiyaç duymadan modüler bileşenler aracılığıyla dinamik web siteleri ve içerikler oluşturabilmesini sağlayan bir içerik yönetim paneli sistemi.
+* **Online Eğitim Platformu:** Kullanıcıların farklı kategorilerde eğitimler bulabildiği, sepet yönetimi yaparak kurs satın alabildiği ve eğitim süreçlerini uçtan uca takip edebildiği bir e-öğrenme platformu.
+* **Kütüphane Yönetim Sistemi:** Kütüphanedeki kitap stoklarının, üyelerin ödünç alma ve iade süreçlerinin, gecikme takibinin düzenli bir şekilde yönetilmesini sağlayan otomasyon sistemi.
+* **Yurt Yönetim Sistemi:** Öğrenci kayıtları, oda yerleşimleri ve izin alma süreçleri gibi kurumsal yurt işlemlerinin tek merkezden koordine edilmesini sağlayan yönetim uygulaması.
 
 ---
 
@@ -28,11 +30,11 @@
 
 | Alan | Teknolojiler / Diller |
 | :--- | :--- |
-| **Diller & Backend** | C#, Python, Java, PHP, JavaScript, ASP.NET Core Web API, Entity Framework Core |
+| **Diller & Backend** | C#, Python, Java, JavaScript, ASP.NET Core |
 | **Frontend & Web** | React, React Router, Axios, Flutter, HTML5, CSS3, Bootstrap, jQuery |
-| **Veritabanı** | MS SQL Server, MySQL, PostgreSQL, dbdiagram.io |
-| **Siber Güvenlik & AI** | Kali Linux, Ağ Güvenliği, Tehdit Analizi, Derin Öğrenme, UML Modelleme |
-| **Araçlar & Git** | Git, GitHub, Postman, Microsoft Office |
+| **Veritabanı** | MS SQL Server, MySQL, PostgreSQL |
+| **Siber Güvenlik & AI** | Kali Linux, Ağ Güvenliği, Tehdit Analizi, Ağ Sızma Testleri,  Makine Öğrenmesi, Derin Öğrenme |
+| **Araçlar & Git** | Git, GitHub, Microsoft Office |
 
 ---
 
@@ -42,5 +44,5 @@
 * 💼 **LinkedIn:** [linkedin.com/in/ceyda-akman](https://linkedin.com/in/ceyda-akman)
 
 <p align="center">
-  <i>✨ Sürekli öğrenmeye ve yeni teknolojileri keşfetmeye tutkuluyum.</i>
+  <i>✨ Sürekli öğrenmeyi ve yeni teknolojileri keşfetmeyi seviyorum.</i>
 </p>
